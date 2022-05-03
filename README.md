@@ -10,11 +10,16 @@
 - 📧 You can E-mail me at : toumijassem@gmail.com
 
 ### Connect with me:
-[![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni)
+[![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni#gh-light-mode-only)
+[![website](./icon-images/twitter-dark.svg)](https://twitter.com/NftTuni#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi)
+[![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi#gh-light-mode-only)
+[![website](./icon-images/linkedin-dark.svg)](https://www.linkedin.com/in/jassem-toumi#gh-dark-mode-only)
+
 &nbsp;&nbsp;
-[![website](./icon-images/instagram-light.svg)](https://www.instagram.com/jassem.toumi)
+[![website](./icon-images/instagram-light.svg)](https://www.instagram.com/jassem.toumi#gh-light-mode-only)
+[![website](./icon-images/instagram-dark.svg)](https://www.instagram.com/jassem.toumi#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
