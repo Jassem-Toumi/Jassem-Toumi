@@ -10,16 +10,13 @@
 - 📧 You can E-mail me at : toumijassem@gmail.com
 
 ### Connect with me:
-[!(./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni)
 &nbsp;&nbsp;
 
-(./img/twitter-dark.svg) (https://twitter.com/NftTuni)
+[![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi)
 &nbsp;&nbsp;
 
-(./img/linkedin-dark.svg) (https://www.linkedin.com/in/jassem-toumi/)
-&nbsp;&nbsp;
-
-(./img/instagram-dark.svg)(https://www.instagram.com/jassem.toumi/)
+[![website](./icon-images/instagram-light.svg)](https://www.instagram.com/jassem.toumi)
 
 ### Languages and Tools:
 
