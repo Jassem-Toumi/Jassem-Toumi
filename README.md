@@ -8,6 +8,7 @@
 - 🥅 2022 Goals: Learn more Javascript (React), CSS and User Interface.
 - ⚡ Fun fact: I love biking, hiking and crypto staking.
 - 📧 You can E-mail me at : toumijassem@gmail.com
+- If you find my Resources Helpful feel free to buy me a Coffee or 5 hhh: https://www.buymeacoffee.com/toumiJassem
 
 ### Connect with me:
 [![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni#gh-light-mode-only)
