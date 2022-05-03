@@ -12,10 +12,8 @@
 ### Connect with me:
 [![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni)
 &nbsp;&nbsp;
-
 [![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi)
 &nbsp;&nbsp;
-
 [![website](./icon-images/instagram-light.svg)](https://www.instagram.com/jassem.toumi)
 
 ### Languages and Tools:
