@@ -2,7 +2,7 @@
 
 ### I'm Young, Free, Curious, and Possibilitarian!!
 
-- 🌱 I’m currently creating inovative e-mail templates and personal static Websites
+- 🌱 I’m currently developing inovative e-mail templates and personal static Websites
 - 👔 I'm available for freelance work (Remote)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more Javascript (React), CSS and User Interface.
