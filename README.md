@@ -2,10 +2,10 @@
 
 ### I'm Young, Free, Curious, and Possibilitarian!!
 
-- 🌱 I’m currently developing inovative e-mail templates and personal static Websites
+- 🌱 I’m currently enjoying the journey of learning Javascript 
 - 👔 I'm available for freelance work (Remote)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more Javascript (React), CSS and User Interface.
+- 🥅 2022 Goals: Learn more Javascript, CSS and UI Design.
 - ⚡ Fun fact: I love biking, hiking and crypto staking.
 - 📧 You can E-mail me at : toumijassem@gmail.com
 - If you find my Resources Helpful feel free to buy me a Coffee or 5 hhh: https://www.buymeacoffee.com/toumiJassem
