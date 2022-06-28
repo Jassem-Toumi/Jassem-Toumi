@@ -2,7 +2,7 @@
 
 ### I'm Young, Free, Curious, and Possibilitarian!!
 
-- 🌱 I’m currently enjoying the journey of learning Javascript 
+- 🌱 I’m enjoying the journey of learning Javascript 
 - 👔 I'm available for freelance work (Remote)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more Javascript, CSS and UI Design.
