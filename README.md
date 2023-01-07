@@ -2,12 +2,12 @@
 
 ### I'm Young, Free, Curious, and Possibilitarian!!
 
-- 🌱 I’m enjoying the journey of learning Javascript 
-- 👔 I'm available for freelance work (Remote)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more Javascript, CSS and UI Design.
-- ⚡ Fun fact: I love biking, hiking and crypto staking.
+- 🌱 I enjoy coding, reading and drinking coffee. I love working out too
+- 👯 I’m looking to collaborate with other developers 
+- 🥅 2023 Goals: Master sata structures and algorithms. 
+- ⚡ Fun fact: I don't have one!!. 
 - 📧 You can E-mail me at : toumijassem@gmail.com
+- 👔 I'm available for freelance work (Remote)
 - If you find my Resources Helpful feel free to buy me a Coffee or 5 hhh: https://www.buymeacoffee.com/toumiJassem
 
 ### Connect with me:
