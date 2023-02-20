@@ -1,10 +1,10 @@
-# Hi there, I'm Jassem - aka JT 👋
+# Hi there, Welcome to my profile - 
 
 ### I'm Young, Free, Curious, and Possibilitarian!!
 
-- 🌱 I enjoy coding, reading and drinking coffee. I love working out too
-- 👯 I’m looking to collaborate with other developers 
-- 🥅 2023 Goals: Master sata structures and algorithms. 
+- 👨🏻‍💻 I enjoy coding, reading and drinking coffee. I love working out too
+- 🥅 2023 Goals: Master data structures and algorithms, levrage my skills in Java and build cool stuff with Javascrript (React). 
+- I'm an undergraduate at The University Of Rochester (NY) studying Computer Science and Business 
 - ⚡ Fun fact: I don't have one!!. 
 - 📧 You can E-mail me at : toumijassem@gmail.com
 - 👔 I'm available for freelance work (Remote)
@@ -29,9 +29,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <!-- CSS icon -->
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<!-- Sass icon -->
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<!-- Bootstrap Icon -->
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <!-- JS icon -->
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
