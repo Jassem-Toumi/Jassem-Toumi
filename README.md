@@ -1,6 +1,6 @@
 # Hi there, Welcome to my profile - 
 
-### I'm Young, Free, Curious, and Possibilitarian!!
+### Embrace Youthful Freedom, Endless Curiosity, and a Possibilitarian Mindset!
 
 - 👨🏻‍💻 I enjoy coding, reading and drinking coffee. I love working out too
 - 🥅 2023 Goals: Master data structures and algorithms, levrage my skills in Java and build cool stuff with Javascrript (React). 
