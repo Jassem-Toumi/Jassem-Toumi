@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I don't have one!!. 
 - 📧 You can E-mail me at : toumijassem@gmail.com
 - 👔 I'm available for freelance work (Remote)
-- If you find my Resources Helpful feel free to buy me a Coffee or 5 hhh: https://www.buymeacoffee.com/toumiJassem
+- If you find my Resources Helpful feel free to buy me a Coffee or 5 hahaha: https://www.buymeacoffee.com/toumiJassem
 
 ### Connect with me:
 [![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni#gh-light-mode-only)
