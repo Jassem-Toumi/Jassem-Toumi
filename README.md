@@ -33,7 +33,7 @@
 <!-- JS icon -->
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <!-- Java icon -->
-<img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" style="padding-right:10px;" />
 
 <br />
 <br />
