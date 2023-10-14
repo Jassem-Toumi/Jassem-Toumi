@@ -1,11 +1,5 @@
 # Hi there, Welcome to my profile - 
 
-### Embrace Youthful Freedom, Endless Curiosity, and a Possibilitarian Mindset!
-
-- 👨🏻‍💻 I enjoy coding, reading and drinking coffee. I love working out too
-- 🥅 2023 Goals: Master data structures and algorithms, levrage my skills in Java and build cool stuff with Javascrript (React). 
-- I'm an undergraduate at The University Of Rochester (NY) studying Computer Science and Business 
-- ⚡ Fun fact: I don't have one!!. 
 - 📧 You can E-mail me at : toumijassem@gmail.com
 - 👔 I'm available for freelance work (Remote)
 - If you find my Resources Helpful feel free to buy me a Coffee or 5 hahaha: https://www.buymeacoffee.com/toumiJassem
