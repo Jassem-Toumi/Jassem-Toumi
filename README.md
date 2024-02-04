@@ -1,5 +1,7 @@
 # Hi there, Welcome to my profile - 
 
+Code-crafter, entrepreneur at heart, with a passion for tech and a love for giving back! :)
+
 - 📧 You can E-mail me at : toumijassem@gmail.com
 - 👔 I'm available for freelance work (Remote)
 - If you find my Resources Helpful feel free to buy me a Coffee or 5 hahaha: https://www.buymeacoffee.com/toumiJassem
