@@ -5,9 +5,6 @@
 - If you find my Resources Helpful feel free to buy me a Coffee or 5 hahaha: https://www.buymeacoffee.com/toumiJassem
 
 ### Connect with me:
-[![website](./icon-images/twitter-light.svg)](https://twitter.com/NftTuni#gh-light-mode-only)
-[![website](./icon-images/twitter-dark.svg)](https://twitter.com/NftTuni#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi#gh-light-mode-only)
 [![website](./icon-images/linkedin-dark.svg)](https://www.linkedin.com/in/jassem-toumi#gh-dark-mode-only)
 &nbsp;&nbsp;
