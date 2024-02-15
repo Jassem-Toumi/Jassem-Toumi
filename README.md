@@ -62,7 +62,6 @@ Code-crafter, entrepreneur at heart, with a passion for tech and a love for givi
 <!-- CSS Framework -->
 
 <!-- Tailwind CSS icon -->
-<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 
 
 <br />
