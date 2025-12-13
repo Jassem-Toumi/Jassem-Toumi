@@ -1,10 +1,8 @@
 # Hi there, Welcome to my profile - 
 
-Code-crafter, entrepreneur at heart, with a passion for tech and a love for giving back! :)
+I like reading, building and driking coffee, a lot of coffe !!!
 
 - 📧 You can E-mail me at : toumijassem@gmail.com
-- 👔 I'm available for freelance work (Remote)
-- If you find my Resources Helpful feel free to buy me a Coffee or 5 hahaha: https://www.buymeacoffee.com/toumiJassem
 
 ### Connect with me:
 [![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi#gh-light-mode-only)
