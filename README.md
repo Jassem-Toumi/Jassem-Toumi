@@ -8,8 +8,6 @@ I like reading, building and driking coffee, a lot of coffe !!!
 [![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi#gh-light-mode-only)
 [![website](./icon-images/linkedin-dark.svg)](https://www.linkedin.com/in/jassem-toumi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icon-images/instagram-light.svg)](https://www.instagram.com/jassem.toumi#gh-light-mode-only)
-[![website](./icon-images/instagram-dark.svg)](https://www.instagram.com/jassem.toumi#gh-dark-mode-only)
 
 
 ### Languages and Tools:
