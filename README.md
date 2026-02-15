@@ -1,4 +1,4 @@
-# Hi there, Welcome to my profile - 
+# Hi there, Welcome to my profile 
 
 I like reading, building and driking coffee, a lot of coffe !!!
 
@@ -6,11 +6,7 @@ I like reading, building and driking coffee, a lot of coffe !!!
 
 ### Connect with me:
 [![website](./icon-images/linkedin-light.svg)](https://www.linkedin.com/in/jassem-toumi#gh-light-mode-only)
-[![website](./icon-images/linkedin-dark.svg)](https://www.linkedin.com/in/jassem-toumi#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
-
 <br />
 
 <details>
